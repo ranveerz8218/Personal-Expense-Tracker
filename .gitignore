@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+data/expenses_backup.json
+tests/test_expenses.json
+tests/test_expenses_backup.json
+.DS_Store
