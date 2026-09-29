@@ -58,8 +58,8 @@ expense_tracker/
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
-   cd expense_tracker
+   git clone https://github.com/ranveerz8218/Personal-Expense-Tracker
+   cd Personal-Expense-Tracker
    ```
 
 2. **Install dependencies**
